@@ -8,7 +8,7 @@ The framework is designed to be scalable, maintainable, and CI/CD ready with Git
 ---
 ## Framework Choice & Why
 
-## Tech Stack
+Tech Stack
 
 - Python 3.12
 - Selenium WebDriver
@@ -17,7 +17,7 @@ The framework is designed to be scalable, maintainable, and CI/CD ready with Git
 - OpenPyXL
 - GitHub Actions
 
-## Why Selenium?
+# Why Selenium?
 
 Selenium was chosen because it is one of the most widely used UI automation tools in the industry and provides:
 
@@ -30,7 +30,7 @@ Additionally, prior hands-on experience with Selenium helped accelerate framewor
 
 It is well suited for real-world web application automation and SDET workflows.
 
-## Why Pytest?
+# Why Pytest?
 
 Pytest was chosen because of its:
 - Simple and readable syntax
