@@ -6,14 +6,9 @@ UI automation framework built using Selenium, Pytest, and the Page Object Model 
 The framework is designed to be scalable, maintainable, and CI/CD ready with GitHub Actions integration.
 
 ---
-<<<<<<< HEAD
-# Framework Choice & Why
-#Tech stack
-=======
 ## Framework Choice & Why
 
 ## Tech Stack
->>>>>>> 0d8b620 (Ireadme changes)
 
 - Python 3.12
 - Selenium WebDriver
@@ -58,12 +53,8 @@ Each application page has its own dedicated page class.
 
 ---
 
-<<<<<<< HEAD
-# Future Scalability / Extension Plan
-=======
 ## Future Scalability / Extension Plan
 
->>>>>>> 0d8b620 (Ireadme changes)
 The framework is designed to be extensible and can be enhanced further with:
 
 - Parallel execution using pytest-xdist
