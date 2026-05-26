@@ -6,8 +6,14 @@ UI automation framework built using Selenium, Pytest, and the Page Object Model 
 The framework is designed to be scalable, maintainable, and CI/CD ready with GitHub Actions integration.
 
 ---
+<<<<<<< HEAD
 # Framework Choice & Why
 #Tech stack
+=======
+## Framework Choice & Why
+
+## Tech Stack
+>>>>>>> 0d8b620 (Ireadme changes)
 
 - Python 3.12
 - Selenium WebDriver
@@ -52,7 +58,12 @@ Each application page has its own dedicated page class.
 
 ---
 
+<<<<<<< HEAD
 # Future Scalability / Extension Plan
+=======
+## Future Scalability / Extension Plan
+
+>>>>>>> 0d8b620 (Ireadme changes)
 The framework is designed to be extensible and can be enhanced further with:
 
 - Parallel execution using pytest-xdist
@@ -66,7 +77,7 @@ The framework is designed to be extensible and can be enhanced further with:
 - Cloud execution using Selenium Grid / BrowserStack
 ---
 
-# Automation Coverage
+## Automation Coverage
 
 ## Login Module
 - Valid login
@@ -105,7 +116,8 @@ The framework is designed to be extensible and can be enhanced further with:
   - 18 automated test scenarios
   - Positive, negative, and end-to-end validations
 
-# CI/CD Integration
+---
+## CI/CD Integration
 
 GitHub Actions workflow is configured to automatically execute the test suite on every push and pull request.
 
@@ -116,7 +128,7 @@ Workflow includes:
 - Automated Pytest execution
 
 Headless browser execution is used for CI environments.
-# Framework Design Principles
+## Framework Design Principles
 
 - Reusability
 - Scalability
@@ -126,7 +138,7 @@ Headless browser execution is used for CI environments.
 - Data-driven execution
 
 ---
-# Running Tests
+## Running Tests
 
 Run complete test suite:
 
