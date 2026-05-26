@@ -5,9 +5,6 @@ UI automation framework built using Selenium, Pytest, and the Page Object Model 
 
 The framework is designed to be scalable, maintainable, and CI/CD ready with GitHub Actions integration.
 
-
-
-
 ---
 # Framework Choice & Why
 
@@ -33,8 +30,6 @@ Additionally, prior hands-on experience with Selenium helped accelerate framewor
 
 It is well suited for real-world web application automation and SDET workflows.
 
-
-
 ## Why Pytest?
 
 Pytest was chosen because of its:
@@ -45,8 +40,6 @@ Pytest was chosen because of its:
 - Rich plugin ecosystem
 
 Pytest makes the framework modular, reusable, and easy to maintain.
-
-
 
 ## Why Page Object Model (POM)?
 
