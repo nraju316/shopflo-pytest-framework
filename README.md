@@ -44,7 +44,7 @@ Workflow includes:
 
 Headless browser execution is used for CI environments.
 
-
+---
 # Framework Choice & Why
 
 ## Why Selenium?
