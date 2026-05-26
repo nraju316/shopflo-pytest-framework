@@ -5,7 +5,12 @@ UI automation framework built using Selenium, Pytest, and the Page Object Model 
 
 The framework is designed to be scalable, maintainable, and CI/CD ready with GitHub Actions integration.
 
+
+
+
 ---
+# Framework Choice & Why
+
 # Tech Stack
 
 - Python 3.12
@@ -14,38 +19,6 @@ The framework is designed to be scalable, maintainable, and CI/CD ready with Git
 - Pytest HTML Reports
 - OpenPyXL
 - GitHub Actions
-
----
-## Key Highlights
-
-- Selenium + Pytest based automation framework
-- Page Object Model (POM) architecture
-- Positive and negative test coverage
-- Externalized test data management using Excel for scalable data-driven execution
-- End-to-End checkout workflow automation
-- Screenshot capture on failures
-- HTML reporting and logging
-- GitHub Actions CI/CD integration
-- Headless execution support
-- Currently configured for Chrome execution with support for future cross-browser scalability.
-- Current automation coverage includes:
-  - 18 automated test scenarios
-  - Positive, negative, and end-to-end validations
-
-# CI/CD Integration
-
-GitHub Actions workflow is configured to automatically execute the test suite on every push and pull request.
-
-Workflow includes:
-- Repository checkout
-- Python setup
-- Dependency installation
-- Automated Pytest execution
-
-Headless browser execution is used for CI environments.
-
----
-# Framework Choice & Why
 
 ## Why Selenium?
 
@@ -60,7 +33,7 @@ Additionally, prior hands-on experience with Selenium helped accelerate framewor
 
 It is well suited for real-world web application automation and SDET workflows.
 
----
+
 
 ## Why Pytest?
 
@@ -73,7 +46,7 @@ Pytest was chosen because of its:
 
 Pytest makes the framework modular, reusable, and easy to maintain.
 
----
+
 
 ## Why Page Object Model (POM)?
 
@@ -101,15 +74,6 @@ The framework is designed to be extensible and can be enhanced further with:
 - Environment-based execution
 - Cloud execution using Selenium Grid / BrowserStack
 ---
-# Framework Design Principles
-
-- Reusability
-- Scalability
-- Maintainability
-- Separation of concerns
-- CI/CD readiness
-- Data-driven execution
----
 
 # Automation Coverage
 
@@ -133,6 +97,43 @@ The framework is designed to be extensible and can be enhanced further with:
 - Positive checkout flow
 - Mandatory field validations
 - End-to-end order completion workflow
+
+## Key Highlights
+
+- Selenium + Pytest based automation framework
+- Page Object Model (POM) architecture
+- Positive and negative test coverage
+- Externalized test data management using Excel for scalable data-driven execution
+- End-to-End checkout workflow automation
+- Screenshot capture on failures
+- HTML reporting and logging
+- GitHub Actions CI/CD integration
+- Headless execution support
+- Currently configured for Chrome execution with support for future cross-browser scalability.
+- Current automation coverage includes:
+  - 18 automated test scenarios
+  - Positive, negative, and end-to-end validations
+
+# CI/CD Integration
+
+GitHub Actions workflow is configured to automatically execute the test suite on every push and pull request.
+
+Workflow includes:
+- Repository checkout
+- Python setup
+- Dependency installation
+- Automated Pytest execution
+
+Headless browser execution is used for CI environments.
+# Framework Design Principles
+
+- Reusability
+- Scalability
+- Maintainability
+- Separation of concerns
+- CI/CD readiness
+- Data-driven execution
+
 ---
 # Running Tests
 
@@ -240,7 +241,7 @@ shopflo-pytest-framework/
 │
 └── README.md
     # Project documentation
-
+```
 
 Author
 
