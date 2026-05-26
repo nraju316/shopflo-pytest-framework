@@ -54,7 +54,6 @@ Each application page has its own dedicated page class.
 ---
 
 # Future Scalability / Extension Plan
-
 The framework is designed to be extensible and can be enhanced further with:
 
 - Parallel execution using pytest-xdist
