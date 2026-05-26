@@ -1,6 +1,9 @@
 name: Selenium Pytest Automation
 
 on:
+
+  workflow_dispatch:
+
   push:
     branches:
       - main
