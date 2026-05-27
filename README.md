@@ -64,27 +64,26 @@ The framework is designed to be extensible and can be enhanced further with:
 - Database validation support
 - Environment-based execution
 - Cloud execution using Selenium Grid / BrowserStack
----
 
 ## Automation Coverage
 
-## Login Module
+### Login Module
 - Valid login
 - Invalid credentials
 - Locked user validation
 - Empty username/password validations
 
-## Inventory Module
+### Inventory Module
 - Product visibility validation
 - Add/remove cart functionality
 - Cart badge validation
 
-## Cart Module
+### Cart Module
 - Product validation inside cart
 - Continue shopping flow
 - Checkout navigation
 
-## Checkout Module
+### Checkout Module
 - Positive checkout flow
 - Mandatory field validations
 - End-to-end order completion workflow
