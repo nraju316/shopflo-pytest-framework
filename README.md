@@ -50,7 +50,6 @@ Page Object Model improves framework maintainability by:
 
 Each application page has its own dedicated page class.
 
----
 
 ## Future Scalability / Extension Plan
 
