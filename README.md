@@ -1,4 +1,4 @@
-# Shopflo Pytest Automation Framework
+# Saucedemo Pytest Automation Framework
 ![CI](https://github.com/nraju316/shopflo-pytest-framework/actions/workflows/tests.yml/badge.svg)
 
 UI automation framework built using Selenium, Pytest, and the Page Object Model (POM) for automating positive and negative test scenarios on the SauceDemo application.
