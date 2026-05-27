@@ -5,7 +5,6 @@ UI automation framework built using Selenium, Pytest, and the Page Object Model 
 
 The framework is designed to be scalable, maintainable, and CI/CD ready with GitHub Actions integration.
 
----
 ## Framework Choice & Why
 
 Tech Stack
