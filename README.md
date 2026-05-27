@@ -104,7 +104,6 @@ The framework is designed to be extensible and can be enhanced further with:
   - 18 automated test scenarios
   - Positive, negative, and end-to-end validations
 
----
 ## CI/CD Integration
 
 GitHub Actions workflow is configured to automatically execute the test suite on every push and pull request.
@@ -125,7 +124,6 @@ Headless browser execution is used for CI environments.
 - CI/CD readiness
 - Data-driven execution
 
----
 ## Running Tests
 
 Run complete test suite:
