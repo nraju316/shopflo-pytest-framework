@@ -29,6 +29,10 @@ Additionally, prior hands-on experience with Selenium helped accelerate framewor
 
 It is well suited for real-world web application automation and SDET workflows.
 
+# Why Python?
+
+Python was chosen because it provides a clean and readable syntax that helps accelerate automation framework development and maintenance. Its strong ecosystem support for Selenium, Pytest, and CI/CD integrations makes it highly suitable for scalable QA automation frameworks.
+
 # Why Pytest?
 
 Pytest was chosen because of its:
